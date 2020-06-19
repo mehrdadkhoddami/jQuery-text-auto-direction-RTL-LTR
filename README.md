@@ -58,16 +58,14 @@ $(document).ready(function (e) {
 ```
 
 
-## Authors
+## Author
 
-Contributors name and contact info
-
-ex. Mehrdad Khoddami
-ex. [@MehrdadKhoddami](https://twitter.com/mehrdadkhoddami)
+* Mehrdad Khoddami
+* [@MehrdadKhoddami](https://twitter.com/mehrdadkhoddami)
 
 ## Version History
 
-* 0.1
+* 1.0
     * Initial Release
 
 ## License
